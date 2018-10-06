@@ -7,6 +7,6 @@
 
 ### 실행
 ```bash
-yarn add
+yarn
 yarn start
 ```
